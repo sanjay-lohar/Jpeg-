@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/sanjay-lohar/Jpeg-/blob/master/a1.jpg",
+      "name": "East Branch",
+      "thumbnail": "https://github.com/sanjay-lohar/Jpeg-/blob/master/a1.jpg"
+    },
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/sanjay-lohar/Jpeg-/blob/master/a2.jpg",
+      "name": "Heads Up",
+      "thumbnail": "https://github.com/sanjay-lohar/Jpeg-/blob/master/a2.jpg"
+    },
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/sanjay-lohar/Jpeg-/blob/master/a3.jpg",
+      "name":" Flamingos",
+      "thumbnail": "https://github.com/sanjay-lohar/Jpeg-/blob/master/a3.jpg"
+    }
+  ]
+}
