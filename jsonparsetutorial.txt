@@ -1,0 +1,64 @@
+{ // JSON Object
+"worldpopulation": // JSON Array Name
+	[ // JSON Array
+		 { // JSON Object
+		 "country":"China",
+		 "population":"1,354,040,000"
+	
+		 }, 
+ 
+		 { // JSON Object
+		"country":"India",
+		 "population":"1,210,193,422"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"United States",
+		 "population":"315,761,000"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Indonesia",
+		 "population":"237,641,326"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Brazil",
+		 "population":"193,946,886"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Pakistan",
+		 "population":"182,912,000"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Nigeria",
+		 "population":"170,901,000"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Bangladesh",
+		 "population":"152,518,015"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Russia",
+		 "population":"143,369,806"
+		
+		 }, 
+ 
+		 { // JSON Object
+		"country":"Japan",
+		 "population":"127,360,000"
+	
+		 } 
+	] // JSON Array
+} // JSON Object
